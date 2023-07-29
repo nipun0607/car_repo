@@ -8,4 +8,4 @@ border attribute is used to to make border of table.
 'img'tag is used to inset image in table 
 'a' tag is used to provide the link in table
 'p' tag is used to to write the paragraph in table.
-
+colspan is used to make signle column
